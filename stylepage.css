@@ -1,0 +1,74 @@
+html {background-color: rgb(255, 240, 214);}
+
+.photo{
+text-align: center;
+    margin: -40px;
+border: 50px;
+padding: 50px;
+}
+
+
+.link{
+    color: black;
+background-color: rgb(255, 240, 214);
+font-family: cursive;
+}
+
+.header{
+   font-size: 40px;
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-weight: bold;
+font-family: cursive;
+font-display: centre;
+
+}
+
+
+
+.title{
+   text-align: center;
+    color:rgb(0, 0, 0);
+background-color:rgb(255, 240, 214);
+    font-weight: bold;
+font-family: cursive;
+font-display: centre;
+}
+
+.link{
+    text-align: center;
+}
+
+.RTT{
+    color: black;
+    text-align: left;
+}
+div {
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+   margin-left: 500px;
+    margin-right: 500px;
+   color: #EEEEEE;
+  }
+  
+  .introduction {
+    color: black;
+    background-color: #a67a5b;
+  }
+  
+  .lasagna {
+    color: black;
+    background-color: #c19770
+  }
+  
+  .pizza {
+    color: black;
+    background-color: #d5b895;
+  }
+
+  .redbull {
+      color: black;
+      background-color: #e8dcb5;
+  }
+}
